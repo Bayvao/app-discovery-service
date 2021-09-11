@@ -1,1 +1,1 @@
-# PhotoAppDiscoveryService
+# AppDiscoveryService
